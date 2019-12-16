@@ -1,0 +1,10 @@
+* {
+  line-height: 1.6;
+  font-family: 'Courier New', Courier, monospace;
+}
+.bigLetter:first-letter {
+  font-size: 80px;
+  float: left;
+  margin-right: 5px;
+  line-height: 0.75;
+}
